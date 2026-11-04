@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MSc-KTH%20Royal%20Institute%20of%20Technology-004791?style=flat-square" alt="KTH">
   <img src="https://img.shields.io/badge/BSc-Cyprus%20University%20of%20Technology-555?style=flat-square" alt="CUT">
-  <img src="https://img.shields.io/badge/Looking%20for-Summer%202027%20internship-2ea44f?style=flat-square" alt="Open to internship">
+
 </p>
 
 <p align="center">
