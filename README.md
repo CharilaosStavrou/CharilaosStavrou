@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Production Engineering Toolkit
+## Production Engineering Toolkit
 
 Four tools, one story: from formulas to simulation. Each has a live demo, tests, and a README that states its formulas, assumptions and limitations.
 
@@ -28,7 +28,7 @@ Four tools, one story: from formulas to simulation. Each has a live demo, tests,
 | **[Kanban Calculator](https://github.com/CharilaosStavrou/kanban-calculator)** | Size kanban loops and supermarkets | Companion to the VSM tool |
 | **[Aggregate Planning](https://github.com/CharilaosStavrou/aggregate-planning)** | Compares Chase, Level and Mixed strategies against an LP-optimal plan | Heuristics vs optimum, side by side |
 
-### 💡 A result I like
+### A result I like
 
 In the simulator's sample line, raising **one** buffer in front of an unreliable welding station from 2 to 20 parts:
 
@@ -38,14 +38,14 @@ In the simulator's sample line, raising **one** buffer in front of an unreliable
 
 More output is bought with more inventory and longer lead time, and the root cause (long repairs) is still there. This is the kind of trade-off I want to study in real plants.
 
-## 🔬 Beyond software
+## Beyond software
 
 - **ELVAL (aluminium manufacturing)**: Chemical Engineering Intern on coil coating line monitoring (2025); seasonal assistant (2024)
 - **University of Milan**: research internship on supported metal catalysts for hydrogen generation and photocatalysis (2025)
 - **BSc thesis**: photocatalytic hydrogen production in a microreactor, combining experiments with COMSOL Multiphysics simulation
 - **Youth Parliament of Cyprus**: member of the Environmental Committee (policy discussions, youth advocacy)
 
-## 🧰 Skills
+## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
@@ -54,6 +54,6 @@ More output is bought with more inventory and longer lead time, and the root cau
 
 **Topics I work with:** discrete-event simulation · lean / value stream mapping · production planning · queueing theory · process modelling · photocatalysis and reactor simulation
 
-## 📫 Let's talk
+## Let's talk
 
 If you work on production systems, simulation or process engineering and think I could be useful, message me on [LinkedIn](https://www.linkedin.com/in/charilaos-p-stavrou-648a25249).
