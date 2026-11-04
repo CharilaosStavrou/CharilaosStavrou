@@ -56,4 +56,4 @@ More output is bought with more inventory and longer lead time, and the root cau
 
 ## Let's talk
 
-If you work on production systems, simulation or process engineering and think I could be useful, message me on [LinkedIn](https://www.linkedin.com/in/charilaos-p-stavrou-648a25249).
+If something here caught your eye, or you just want to talk shop, I'd love to hear from you.<br><br> <a href="https://www.linkedin.com/in/charilaos-p-stavrou-648a25249"><b>Connect with me on LinkedIn →</b></a> </p>
