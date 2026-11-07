@@ -40,7 +40,7 @@ More output is bought with more inventory and longer lead time, and the root cau
 
 ## Beyond software
 
-- **ELVAL (aluminium manufacturing)**: Chemical Engineering Intern on coil coating line monitoring (2025); seasonal assistant (2024)
+- **ELVAL (aluminium manufacturing)**: Chemical Engineering Intern on coil coating line No. 2 (ANDRITZ technology), Jul–Sep 2025. Daily process monitoring, analysis of production data (coating speeds, solvent usage, colour weights) into daily and monthly statistical summaries, and a data-driven check of applicator, intermediate and pickup roll speeds for coating consistency and process stability. Seasonal assistant in 2024.
 - **University of Milan**: research internship on supported metal catalysts for hydrogen generation and photocatalysis (2025)
 - **BSc thesis**: photocatalytic hydrogen production in a microreactor, combining experiments with COMSOL Multiphysics simulation
 - **Youth Parliament of Cyprus**: member of the Environmental Committee (policy discussions, youth advocacy)
